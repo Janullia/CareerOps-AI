@@ -39,15 +39,6 @@ flowchart TD
 - Human-in-the-loop
 - Pesquisa web com rastreabilidade
 
-## Testes
-
-Os cinco módulos possuem **60 testes unitários**. Não há dependências externas para executar a suíte de validação.
-
-```bash
-python3 scripts/run_all_tests.py
-```
-
-O GitHub Actions também executa os testes automaticamente em cada `push` e `pull request`.
 
 ## Estrutura do projeto
 
