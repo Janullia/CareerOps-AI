@@ -1,0 +1,36 @@
+# Segredos e configurações privadas
+.env
+.env.*
+*.key
+*.pem
+
+# Dados pessoais e materiais reais
+private/
+dados-reais/
+curriculos-reais/
+dados-candidatos/
+*.pdf
+*.docx
+*.xlsx
+
+# Saídas e arquivos temporários
+output/
+resultados/
+temp/
+logs/
+*.log
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

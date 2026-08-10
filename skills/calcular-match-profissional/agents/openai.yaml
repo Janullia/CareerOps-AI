@@ -1,0 +1,12 @@
+interface:
+  display_name: Calcular Match Profissional
+  short_description: "Calcule ader\xEAncia com pesos e evid\xEAncias"
+  default_prompt: Use $calcular-match-profissional para calcular o match entre o perfil
+    validado e estas vagas confirmadas.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,12 @@
+interface:
+  display_name: Gerar Kit de Candidatura
+  short_description: Crie e valide documentos de candidatura ATS
+  default_prompt: "Use $gerar-kit-candidatura para criar o pacote de candidatura das\
+    \ vagas eleg\xEDveis."
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

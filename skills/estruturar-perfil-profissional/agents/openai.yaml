@@ -1,0 +1,12 @@
+interface:
+  display_name: Estruturar Perfil Profissional
+  short_description: "Converta curr\xEDculo em perfil profissional confi\xE1vel"
+  default_prompt: "Use $estruturar-perfil-profissional para transformar este curr\xED\
+    culo no perfil oficial da candidata."
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

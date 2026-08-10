@@ -1,0 +1,43 @@
+{
+  "candidate_id": "candidata-exemplo",
+  "search": {
+    "as_of": "2026-08-10",
+    "window_days": 7,
+    "expanded_window": false,
+    "verified_timezone": "America/Sao_Paulo"
+  },
+  "jobs": [
+    {
+      "job_id": "vaga-demo-001",
+      "title": "Estágio em Tecnologia",
+      "company": "Empresa Exemplo",
+      "area": "Tecnologia",
+      "location": "Brasília/DF",
+      "modality": "presencial",
+      "publication_date": "2026-08-09",
+      "publication_evidence": "data_exata",
+      "source_name": "Página de carreiras fictícia",
+      "source_url": "https://example.com/jobs/vaga-demo-001",
+      "application_url": "https://example.com/apply/vaga-demo-001",
+      "status": "aberta_confirmada",
+      "status_evidence": "Formulário fictício marcado como ativo",
+      "verified_at": "2026-08-10T09:30:00-03:00",
+      "seniority": "Estágio",
+      "employment_type": "Estágio",
+      "work_schedule": "Segunda a sexta",
+      "salary": "Não informado",
+      "benefits": [],
+      "description": "Apoio a sistemas, documentação e automação.",
+      "required_requirements": ["Lógica de programação"],
+      "desired_requirements": ["Python"],
+      "location_eligible": true,
+      "remote_country_eligible": true,
+      "seniority_eligible": true,
+      "schedule_eligible": true,
+      "eligibility_evidence": ["Brasília/DF", "Segunda a sexta", "Estágio"],
+      "expanded_window": false,
+      "exclusion_reason": null,
+      "notes": "Registro inteiramente fictício para demonstração."
+    }
+  ]
+}

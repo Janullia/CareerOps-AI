@@ -1,0 +1,12 @@
+interface:
+  display_name: "Orquestrar Recoloca\xE7\xE3o Profissional"
+  short_description: "Coordene o agente de recoloca\xE7\xE3o ponta a ponta"
+  default_prompt: "Use $orquestrar-recolocacao-profissional para executar a recoloca\xE7\
+    \xE3o com etapas, valida\xE7\xF5es e aprova\xE7\xE3o."
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

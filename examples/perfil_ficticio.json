@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "candidate_id": "candidata-exemplo",
+  "source_document": {
+    "document_name": "curriculo_ficticio.pdf",
+    "version_label": "2026-08-10",
+    "received_at": "2026-08-10T09:00:00-03:00",
+    "is_official": true
+  },
+  "professional_facts": {
+    "identity": {
+      "full_name": {
+        "value": "Candidata Exemplo",
+        "status": "confirmed",
+        "source_type": "curriculo_oficial",
+        "source_name": "curriculo_ficticio.pdf",
+        "evidence": "Nome: Candidata Exemplo"
+      }
+    },
+    "experiences": [],
+    "education": [],
+    "projects": [],
+    "technical_skills": [
+      {
+        "value": "Python",
+        "status": "confirmed",
+        "source_type": "curriculo_oficial",
+        "source_name": "curriculo_ficticio.pdf",
+        "evidence": "Competências: Python"
+      }
+    ]
+  },
+  "search_policy": {
+    "accepted_modalities": {
+      "value": ["presencial", "remoto"],
+      "status": "confirmed",
+      "source_type": "declaracao_usuario",
+      "source_name": "preferencias_declaradas",
+      "evidence": "A pessoa aceita vagas presenciais e remotas"
+    },
+    "application_requires_approval": {
+      "value": true,
+      "status": "confirmed",
+      "source_type": "declaracao_usuario",
+      "source_name": "preferencias_declaradas",
+      "evidence": "Toda candidatura exige aprovação"
+    }
+  },
+  "unknown_fields": []
+}

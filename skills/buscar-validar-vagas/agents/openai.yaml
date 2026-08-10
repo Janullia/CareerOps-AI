@@ -1,0 +1,12 @@
+interface:
+  display_name: Buscar e Validar Vagas
+  short_description: "Valide vagas recentes antes do c\xE1lculo de match"
+  default_prompt: Use $buscar-validar-vagas para pesquisar e validar vagas recentes
+    conforme o perfil oficial da candidata.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
