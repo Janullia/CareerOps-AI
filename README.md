@@ -82,21 +82,6 @@ Cada skill contém seu `SKILL.md`, referências, scripts Python, testes e metada
 
 As partes de pesquisa web e geração de documentos dependem de um ambiente de agente com as ferramentas correspondentes. Os scripts Python deste repositório validam dados, scores, estados e artefatos de forma independente.
 
-## Segurança e privacidade
-
-- Não publique currículos ou dados de candidatas reais.
-- Nunca inclua chaves de API, tokens, senhas ou arquivos `.env`.
-- Use somente exemplos fictícios no repositório público.
-- Preserve aprovação humana antes de candidaturas ou outras ações externas.
-- Não transforme informações não comprovadas em fatos profissionais.
-
-Veja também [SECURITY.md](SECURITY.md).
-
-## Documentação
-
-- [Arquitetura](docs/arquitetura.md)
-- [Como o workflow funciona](docs/como-funciona.md)
-- [Como publicar no GitHub](docs/publicar-no-github.md)
 
 ## Limitações atuais
 
@@ -116,7 +101,7 @@ Veja também [SECURITY.md](SECURITY.md).
 
 ## Autoria e transparência
 
-Projeto idealizado e desenvolvido por Ana Júlia Vieira, com uso estratégico de ferramentas de inteligência artificial como apoio à implementação, documentação, revisão e testes.
+Projeto idealizado e desenvolvido por Ana Júlia Medeiros Vieira, com uso estratégico de ferramentas de inteligência artificial como apoio à implementação, documentação, revisão e testes.
 
 ## Licença
 
