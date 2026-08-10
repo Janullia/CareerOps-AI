@@ -116,7 +116,7 @@ Veja também [SECURITY.md](SECURITY.md).
 
 ## Autoria e transparência
 
-Projeto concebido e desenvolvido por **Ana Julia Vieira**, com apoio de ferramentas de inteligência artificial na implementação, revisão e testes.
+Projeto idealizado e desenvolvido por Ana Júlia Vieira, com uso estratégico de ferramentas de inteligência artificial como apoio à implementação, documentação, revisão e testes.
 
 ## Licença
 
